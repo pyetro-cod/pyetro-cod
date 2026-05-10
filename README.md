@@ -26,10 +26,14 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pyetro-cod&show_icons=true&theme=dracula" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyetro-cod&layout=compact&theme=dracula"/>
-</p>
+<div align="center">
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyetro-cod&theme=dracula&hide_border=true&border_radius=12" />
+
+</div>
+
+
 
 ---
 
